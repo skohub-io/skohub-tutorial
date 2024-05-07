@@ -13,6 +13,10 @@ comment:  Anlegen eines kontrollierten Wertebereiches mit SKOS und Veröffentlic
 
 # Kontrollierte Wertebereiche mit SKOS und SkoHub
 
+<div style="background-color: #ffdd57; border-radius: 10px; padding: 20px;">
+    <em>⚠️ Hinweis: Dieser Selbstlern-Kurs ist noch sehr neu und braucht euer Feedback. Wenn ihr Anmerkungen und Verbesserungsvorschläge habt, meldet sie gerne <a href="https://github.com/skohub-io/skohub-tutorials/issues/new">zurück</a>.</em>
+</div>
+
 Wir wollen heute lernen, wie Du einen kontrollierten Wertebereich mit SKOS anlegen und mit SkoHub Vocabs veröffentlichen kannst.
 
 Dabei gehen wir ganz praktisch vor und behandeln Hintergrundinformationen zu den Themen Linked Data und Resource Description Framework nur (Technologien, auf denen SKOS aufbaut), wenn sie relevant sind.
